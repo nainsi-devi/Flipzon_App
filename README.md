@@ -79,7 +79,7 @@ On failure → Data remains محفوظ (retry later)
 
 📦 API Used
 
-Dummy API: https://dummyjson.com
+Dummy API: 
 Endpoints:
 /auth/login
 /products
